@@ -1,3 +1,4 @@
+![Gagan Developer Banner](githubBanner.jpeg)
 # Hi 👋, I'm Gagan Khandelwal
 
 ### 💻 Aspiring Software Engineer | BTech CSE Student
@@ -42,51 +43,45 @@ I'm a Computer Science Engineering student passionate about programming, problem
 
 Here are some projects I've built while learning and improving my development skills:
 
-1. 🤖 Nexa AI Virtual Assistant
-   
-   - An AI-powered virtual assistant project.
-   - Technologies: HTML, CSS, JavaScript.
+## 🚀 Featured Projects
 
-2. ⛳ Family Golf Website
-   
-   - An attractive golf-themed website.
-   - Technologies: HTML, CSS, JavaScript.
+### 🤖 Nexa AI Virtual Assistant
+AI-powered virtual assistant built using web technologies.
+live link:- https://gagankdev.github.io/Nexa--AI-Virtual-Assistant/
 
-3. 🗣️ Text-to-Speech Converter
-   
-   - Converts written text into spoken audio.
-   - Technologies: HTML, CSS, JavaScript, Web Speech API.
+### ⛳ Family Golf Website
+Modern and attractive golf-themed website.
+live link:- https://gagankdev.github.io/Family_Golf/
 
-4. 📱 QR Code Generator
-   
-   - Generates QR codes from user-provided text or links.
-   - Technologies: HTML, CSS, JavaScript.
 
-5. 🌸 Flower E-commerce Website
-   
-   - A frontend e-commerce website design.
-   - Technologies: HTML, CSS.
+### 🗣️ Text-to-Speech Converter
+Converts written text into spoken audio.
+live link:- https://gagankdev.github.io/Text-to-voice-convertor/
 
-6. 🌦️ Weather Application
-   
-   - Displays weather information using an API.
-   - Technologies: HTML, CSS, JavaScript.
 
-7. 🎮 Rock Paper Scissors Game
-   
-   - An interactive browser-based game.
-   - Technologies: HTML, CSS, JavaScript.
+### 📱 QR Code Generator
+Generates QR codes from text and URLs.
+live link:- https://gagankdev.github.io/QR-Code-generator/
 
-8. ✅ To-Do List Application
-   
-   - A task management application.
-   - Technologies: HTML, CSS, JavaScript.
 
-9. 💼 Personal Portfolio Website
-   
-   - A personal website to showcase my skills and projects.
-   - Technologies: HTML, CSS, JavaScript.
-### 📚 Currently Learning
+### 🌸 Flower E-commerce Website
+Frontend e-commerce website using HTML and CSS.
+live link:- https://gagankdev.github.io/responsive-e-commerce-flower-web/
+
+
+### 🌦️ Weather Application
+Weather information application using an API.
+live link:- https://gagankdev.github.io/Weather-App/
+
+
+### 🎮 Rock Paper Scissors
+Interactive browser-based game.
+
+### ✅ To-Do List
+Task management application.
+
+### 💼 Personal Portfolio
+Personal website showcasing my skills and projects.### 📚 Currently Learning
 
 - C++ Programming
 - Data Structures & Algorithms
