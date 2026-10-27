@@ -98,7 +98,7 @@ Personal website showcasing my skills and projects.### 📚 Currently Learning
 ### 🤝 Connect With Me
 
 - GitHub: https://github.com/gagankdev
-- LinkedIn: linkedin.com/in/gagan-khandelwal-8368853a7
+- LinkedIn: https://www.linkedin.com/in/gagan-khandelwal-8368853a7
 
 ------
 
