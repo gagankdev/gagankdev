@@ -9,7 +9,9 @@ I'm a Computer Science Engineering student passionate about programming, problem
 ### 🚀 About Me
 
 - 🎓 BTech CSE Student
-- 💻 Currently learning DSA
+- - 💻 Currently learning C++ and DSA
+- 🌐 Building projects using HTML, CSS and JavaScript
+- 🌱 Exploring Full Stack Development
 - 🌐 Interested in Frontend Development
 - 🌱 Exploring Full Stack Development
 - 🎯 Working towards becoming a Software Engineer
