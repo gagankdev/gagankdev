@@ -97,10 +97,17 @@ Personal website showcasing my skills and projects.### 📚 Currently Learning
 
 ### 🤝 Connect With Me
 
-- GitHub: https://github.com/gagankdev
-- LinkedIn: https://www.linkedin.com/in/gagan-khandelwal-8368853a7
-
-------
+<p align="left">
+  <a href="https://www.linkedin.com/in/gagan-khandelwal-8368853a7/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/gagankdev">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:gagankhandelwal335@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 ## 📊 GitHub Statistics
 
